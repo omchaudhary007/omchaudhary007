@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om chaudhary</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">I have expertise in web development with a strong command of React and JavaScript for front-end development. On the backend, I am skilled in Node.js, Express, and MongoDB. My proficiency in data structures and algorithms enables me to write optimized code. Additionally, I possess knowledge of C++, Java, and Python, which further enhances my skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omchaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="omchaudhary007" /> </p>
 
