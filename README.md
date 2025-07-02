@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om chaudhary</h1>
-<h4 align="center">I have expertise in web development with a strong command of React and JavaScript for front-end development. On the backend, I am skilled in Node.js, Express, and MongoDB. My proficiency in data structures and algorithms enables me to write optimized code. Additionally, I possess knowledge of C++, Java, and Python, which further enhances my skill set.</h4>
+<p align="center">Full Stack Engineer with a BCA degree and a strong focus on building fast, scalable, and user-friendly web applications. Proficient in React.js, Next.js, Node.js, MongoDB, TypeScript, and Tailwind CSS. Experienced through an internship at MnA Studio and equipped with solid problem-solving and algorithmic skills. Passionate about clean code, performance optimization, and continuous learning.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omchaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="omchaudhary007" /> </p>
 
