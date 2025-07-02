@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om chaudhary</h1>
-<p align="center">Full Stack Engineer with a BCA degree and a strong focus on building fast, scalable, and user-friendly web applications. Proficient in React.js, Next.js, Node.js, MongoDB, TypeScript, and Tailwind CSS. Experienced through an internship at MnA Studio and equipped with solid problem-solving and algorithmic skills. Passionate about clean code, performance optimization, and continuous learning.</p>
+<h6 align="center">Full Stack Engineer with a BCA degree and a strong focus on building fast, scalable, and user-friendly web applications. Proficient in React.js, Next.js, Node.js, MongoDB, TypeScript, and Tailwind CSS. Experienced through an internship at MnA Studio and equipped with solid problem-solving and algorithmic skills. Passionate about clean code, performance optimization, and continuous learning.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omchaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="omchaudhary007" /> </p>
 
