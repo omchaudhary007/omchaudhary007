@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Om Chaudhary</h1>
-<h3 align="center">Full Stack Engineer | JavaScript, TypeScript, Node.js, React.js, Next.js</h3>
+<h3 align="center">Full Stack Engineer | Passionate about software engineering and building impactful applications</h3>
 
-<p align="center">
+<p>
   Software Engineer with experience in developing full-stack applications using TypeScript, Node.js, React.js,
   Next.js, PostgreSQL, and MongoDB. Skilled in API design, system design, and algorithms, with a strong focus on
   clean architecture and performance. Committed to building reliable systems and continuous learning.
