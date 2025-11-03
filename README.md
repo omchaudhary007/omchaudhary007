@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Om Chaudhary</h1>
-<h3 align="center">Full Stack Engineer | Passionate about software engineering and building impactful applications</h3>
+<h3 align="center">Full Stack Engineer | Turning ideas into software</h3>
 
 <p>
   Software Engineer with experience in developing full-stack applications using TypeScript, Node.js, React.js,
