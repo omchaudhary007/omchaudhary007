@@ -1,27 +1,30 @@
-Currently working with **TypeScript**, **Node.js**, **React**, **Next.js**, and turning ideas into working products.
+Currently building **AI-powered applications and full-stack products** using **Python, TypeScript, Node.js, FastAPI, React, Next.js, LLMs, RAG, and Claude API**.
 
 ---
 
 ### Experience
 
-**Software Engineer Intern @ OnedigiStore**  
-→ Slack-native workflow automation platform (AI + SaaS)
+**Freelance Software Engineer**
+→ AI agents, RAG systems, document processing, LLM workflows, and full-stack applications
 
-**Full Stack Intern @ MnA Studio**  
-→ Website rebuild with modern UI/UX
+**Software Engineer Intern @ OnedigiStore**
+→ Slack-based workflow automation platform with AI features, RAG chatbot, and real-time insights
+
+**Web Developer Intern @ MnA Studio**
+→ Website development with Next.js, Tailwind CSS, and Framer Motion
 
 ---
 
 ### Notable Projects
 
-**SkillHouse** – Freelance marketplace with Stripe integration, role-based access, and real-time chat.
+**Docsy** – AI document query engine using Claude, RAG, grounded responses, and source citations.
 
-**PlanZ** – College event management platform with role-based access, automatic certificate distribution, and event analysis dashboards.
+**PlanZ** – College event management platform with role-based access, event analytics, and automated certificate distribution.
 
-**Bookmark+** – Smart bookmark manager to save links with notes, set reminders, receive email notifications, and search bookmarks easily.
+**SkillHouse** – Freelance marketplace with Stripe payments, role-based access, authentication, and real-time chat.
 
 ---
 
 ### Find Me Online
 
-- [**LinkedIn**](https://www.linkedin.com/in/omchaudhary07/)
+* [**LinkedIn**](https://www.linkedin.com/in/omchaudhary07/)
