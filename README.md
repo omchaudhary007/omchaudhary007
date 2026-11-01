@@ -4,9 +4,6 @@ Currently building **AI-powered applications and full-stack products** using **P
 
 ### Experience
 
-**Freelance Software Engineer**
-→ AI agents, RAG systems, document processing, LLM workflows, and full-stack applications
-
 **Software Engineer Intern @ OnedigiStore**
 → Slack-based workflow automation platform with AI features, RAG chatbot, and real-time insights
 
